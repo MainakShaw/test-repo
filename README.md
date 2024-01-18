@@ -9,3 +9,4 @@ This was modified in VSCode.
 ## Local Development
 
 1. Open Index.html in you browser
+2. Have Fun!
